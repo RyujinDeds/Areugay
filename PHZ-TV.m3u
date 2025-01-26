@@ -990,10 +990,8 @@ http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001245/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-217 tvg-logo="https://i.imgur.com/OGXzvsp.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports",NBA TV ASIA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
+#EXTINF:-217 tvg-logo="https://i.imgur.com/OGXzvsp.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports",NBA TV
+http://tvmate.icu:8080/E7p7DU/011587/210467
 
 #EXTINF:-218 tvg-logo="https://i.imgur.com/CIBoLmB.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports",W-SPORT
 https://cdn09jtedge.indihometv.com/joss/133/paramount/index.m3u8
